@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-dictionary-using-google-api/static/css/main.16161238.chunk.css",
+    "main.js": "/react-dictionary-using-google-api/static/js/main.fecd8b1a.chunk.js",
+    "main.js.map": "/react-dictionary-using-google-api/static/js/main.fecd8b1a.chunk.js.map",
+    "runtime-main.js": "/react-dictionary-using-google-api/static/js/runtime-main.13894a55.js",
+    "runtime-main.js.map": "/react-dictionary-using-google-api/static/js/runtime-main.13894a55.js.map",
+    "static/js/2.1860df42.chunk.js": "/react-dictionary-using-google-api/static/js/2.1860df42.chunk.js",
+    "static/js/2.1860df42.chunk.js.map": "/react-dictionary-using-google-api/static/js/2.1860df42.chunk.js.map",
+    "index.html": "/react-dictionary-using-google-api/index.html",
+    "service-worker.js": "/react-dictionary-using-google-api/service-worker.js",
+    "service-worker.js.map": "/react-dictionary-using-google-api/service-worker.js.map",
+    "static/css/main.16161238.chunk.css.map": "/react-dictionary-using-google-api/static/css/main.16161238.chunk.css.map",
+    "static/js/2.1860df42.chunk.js.LICENSE.txt": "/react-dictionary-using-google-api/static/js/2.1860df42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13894a55.js",
+    "static/js/2.1860df42.chunk.js",
+    "static/css/main.16161238.chunk.css",
+    "static/js/main.fecd8b1a.chunk.js"
+  ]
+}
